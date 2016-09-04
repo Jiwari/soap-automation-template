@@ -1,4 +1,4 @@
-package br.com.weruth.qa;
+package br.com.wermuth.qa;
 
 import org.apache.cxf.jaxws.JaxWsProxyFactoryBean;
 

@@ -1,4 +1,4 @@
-package br.com.weruth.qa;
+package br.com.wermuth.qa;
 
 /**
  * An example of a serice class. As a pattern I always use "Service" sufix on
