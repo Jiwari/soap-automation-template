@@ -1,0 +1,6 @@
+<ws:bindings 
+	xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+	xmlns:ws="http://java.sun.com/xml/ns/jaxws"
+	node="wsdl:definitions[@name='MyService']">
+	<ws:package name="br.com.wermuth.qa.myservice" />
+</ws:bindings>

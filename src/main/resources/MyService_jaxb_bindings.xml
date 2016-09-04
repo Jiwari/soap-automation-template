@@ -1,0 +1,15 @@
+<xb:bindings xmlns:xb="http://java.sun.com/xml/ns/jaxb"
+	version="2.1">
+	<xb:bindings
+		schemaLocation="http://host:port/schema/endpoint/types">
+		<xb:schemaBindings>
+			<xb:package name="br.com.cwi.qa.meuservico.types" />
+		</xb:schemaBindings>
+	</xb:bindings>
+	<xb:bindings
+		schemaLocation="http://host:port/schema/endpoint/exceptions">
+		<xb:schemaBindings>
+			<xb:package name="br.com.wermuth.qa.myservice.exceptions" />
+		</xb:schemaBindings>
+	</xb:bindings>
+</xb:bindings>
